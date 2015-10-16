@@ -1,0 +1,9 @@
+CACHE MANIFEST
+# 2015-10-16 1
+
+CACHE:
+main.js
+index.html
+
+NETWORK:
+*
